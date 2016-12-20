@@ -3,6 +3,16 @@
 	"EngineAssociation": "4.14",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "SteamVR",
+			"Enabled": false
+		},
+		{
+			"Name": "GearVR",
+			"Enabled": false
+		}
+	],
 	"TargetPlatforms": [
 		"WindowsNoEditor"
 	]
